@@ -1,0 +1,12 @@
+<html>
+    <body>
+        <h2>다운로드 POG List for Stores</h2>
+        
+        {% for n in my_storelist %}
+        
+        <p><a href="/getCSV/{{ n }}"> {{ n }} </a></p>
+
+        {% endfor %}
+
+    </body>
+</html>
