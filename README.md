@@ -4,4 +4,4 @@
 1. You can input your own connextion string - works with any Db Flask and Python supports ( I was using Microsoft SQL Server 2012 )
 2. The current use case is downloading retail data for a particular store - sales, product lists etc.
 
-![alt text](https://raw.githubusercontent.com/robathija/PythonFlaskWebApp-DownloadSQLDataAsCSV/master/screenshots/Screenshot.png
+![alt text](https://github.com/robathija/PythonFlaskWebApp-DownloadSQLDataAsCSV/blob/master/screenshots/Screenshot.PNG)
